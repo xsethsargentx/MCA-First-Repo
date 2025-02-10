@@ -1,0 +1,14 @@
+.boxOne {
+    background-color: darkcyan;
+}
+
+.boxTwo {
+    background-color: #639478;
+}
+.boxThree {
+    background-color: rgb(132, 223, 87);
+}
+
+.boxFour {
+    background-color: hsl(76, 28%, 40%);
+}
